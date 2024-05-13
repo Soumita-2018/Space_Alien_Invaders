@@ -19,5 +19,7 @@ Original Game Concept: Space Invaders
 Development: SOUMITA SAHU
 # Instructions for Running the Game
 The Space Invaders Game project in Java recreates the classic arcade experience where players control a spaceship at the bottom of the screen, defending Earth from descending waves of alien invaders. Programmers utilize Java skills to implement player input handling, manage alien movement patterns, detect collisions, and render graphics, creating a fast-paced and addictive gaming experience reminiscent of the original Space Invaders.
-# Feel free to add any additional details or customization to suit your project's specific needs!
 ![Screenshot 2024-05-13 231011](https://github.com/Soumita-2018/Space_Alien_Invaders/assets/100480877/9ea06f15-c721-4e50-8ac1-d55ffd5e28bf)
+# 
+Feel free to add any additional details or customization to suit your project's specific needs!
+
